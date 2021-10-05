@@ -2,8 +2,7 @@
 title: Jessie Sun
 role: MindCORE Postdoctoral Fellow
 avatar_filename: jessie-sun-headshot-cropped.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Well-Being
   - Moral Psychology
@@ -12,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:jesssun@sas.upenn.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JessieSunPsych
