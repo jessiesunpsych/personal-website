@@ -3,6 +3,7 @@ widget: Blank
 widget_id: research
 headless: true
 weight: 10
+title: Research
 active: true
 design:
   columns: "2"
