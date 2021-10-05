@@ -1,79 +1,64 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: "What do people think their best and worst personality traits are? Do
+  their friends agree? Across three samples, 463 college students (“targets”)
+  and their friends freely described two traits they most liked and two traits
+  they most disliked about the target. Coders categorized these open-ended trait
+  descriptors into high or low poles of six trait domains (extraversion,
+  agreeableness, conscientiousness, emotional stability, openness, and
+  honesty-humility) and judged whether targets and friends reported the same
+  specific best and worst traits. Best traits almost exclusively reflected high
+  levels of the major trait domains (especially high agreeableness and
+  extraversion). In contrast, although worst traits typically reflected low
+  levels of these traits (especially low emotional stability), they sometimes
+  also revealed the downsides of having high levels of these traits (e.g., high
+  extraversion: “loud”; high agreeableness: “people-pleaser”). Overall, targets
+  and friends mentioned similar kinds of best traits; however, targets
+  emphasized low emotional stability worst traits more than friends did, whereas
+  friends emphasized low prosociality worst traits more than targets did.
+  Targets and friends also showed a moderate amount of self–other agreement on
+  what the targets’ best and worst traits were. These results (a) shed light on
+  the traits that people consider to be most important in themselves and their
+  friends, (b) suggest that the desirability of some traits may be in the eye of
+  the beholder, (c) reveals the mixed blessings of different traits, and,
+  ultimately, (d) provide a nuanced perspective on what it means for a trait to
+  be “good” or “bad.”"
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+  - admin
+  - Becky Neufeld
+  - Paige Snelgrove
+  - Simine Vazire
+author_notes: []
+publication: In *Journal of Personality and Social Psychology*
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: In *JPSP*
+url_source: ""
+url_video: ""
+title: "Personality Evaluated: What Do People Most Like and Dislike About
+  Themselves and Their Friends?"
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags:
+  - trait desirability
+  - personality judgment
+  - self-other agreement
+  - evaluative judgments
+  - person perception
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
