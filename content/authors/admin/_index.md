@@ -1,7 +1,7 @@
 ---
 title: Jessie Sun
 role: MindCORE Postdoctoral Fellow
-avatar_filename: jessie-sun-headshot-cropped.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Well-Being
