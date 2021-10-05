@@ -1,5 +1,5 @@
 ---
-widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER
+widget: Blank
 widget_id: research
 headless: true
 weight: 10
