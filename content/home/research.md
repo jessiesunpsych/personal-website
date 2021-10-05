@@ -10,4 +10,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    color: "#0092ff"
 ---
