@@ -73,3 +73,8 @@ I am a MindCORE Postdoctoral Fellow at the University of Pennsylvania ([CV](http
 I received my Ph.D. from UC Davis, where I worked in the [Personality and Self-Knowledge Lab](http://psychology.ucdavis.edu/research/research-labs/personality-and-self-knowledge-lab). Prior to graduate school, I received my BA (Honours) from the University of Melbourne and worked as a RA for the [Personality Processes Lab](http://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/personality-processes-laboratory), [Centre for Positive Psychology](http://education.unimelb.edu.au/cpp/home), and the [Williams Social Emotions Lab](http://www.williamssocialemotionslab.com/).
 
 In my personal life, I strive to promote well-being by living vegan and have [pledged to give](https://www.givingwhatwecan.org/about-us/members/#the-pledge-and-further-pledge-members) to the most [effective](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism) animal welfare and global poverty causes. For fun, I am a long-time [classical singer](https://soundcloud.com/jessie-sun-soprano) and enjoy [rock-climbing](https://www.facebook.com/sunshine.jessie/posts/10154927930196364) and dancing (bachata & kizomba). Thanks for visiting my page!
+
+---
+{{% callout note %}}
+I am recruiting graduate students for admission at WashU in St. Louis in Fall 2022. Please click [here](./publication/) for more information.
+{{% /callout %}}
