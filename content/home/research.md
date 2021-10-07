@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Projects
+title: Research
 subtitle: ''
 
 content:
@@ -24,13 +24,13 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  #filter_button:
+  #- name: All
+  #  tag: '*'
+  #- name: Morality
+  #  tag: Morality
+  #- name: Well-Being
+  #  tag: Well-Being
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
