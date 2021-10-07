@@ -1,6 +1,6 @@
 ---
 title: Social Interactions and Well-Being
-summary: An example of using the in-built project page.
+summary: What kinds of social interactions matter for well-being? Do different kinds of social interactions matter for different people?
 tags:
 #- Morality
 date: ""
@@ -9,7 +9,7 @@ date: ""
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 
 links:

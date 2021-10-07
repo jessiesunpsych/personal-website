@@ -1,6 +1,6 @@
 ---
 title: Morality and Well-Being
-summary: An example of using the in-built project page.
+summary: Are moral people happier, or is there a tradeoff between well-being and morality?
 tags:
 #- Morality
 date: ""
@@ -9,7 +9,7 @@ date: ""
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 
 links:
