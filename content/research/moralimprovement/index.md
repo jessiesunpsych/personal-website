@@ -1,6 +1,6 @@
 ---
 title: Moral Improvement
-summary: An example of using the in-built project page.
+summary: What inspires people to become more moral?
 tags:
 #- Morality
 date: ""
