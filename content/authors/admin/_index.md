@@ -68,7 +68,7 @@ email: ""
 highlight_name: true
 ---
 {{% callout note %}}
-I am recruiting graduate students for admission at WashU in St. Louis in Fall 2022. Please click here for more information.
+I am recruiting graduate students for admission to Washington University in St. Louis in Fall 2022. Please click here for more information.
 {{% /callout %}}
 
 I am a MindCORE Postdoctoral Fellow at the University of Pennsylvania ([CV](https://www.dropbox.com/s/4uv5sh99qed6zy6/Sun_CV_2021.pdf?raw=1)). I will be an Assistant Professor at Washington University in St. Louis starting in Fall 2022. My research examines two fundamental aspects of the good life—well-being and morality—in real-world contexts. To study people “in the wild,” I use a diverse methodological toolkit, including experience sampling, naturalistic audio recordings, informant reports, and personality change interventions.
