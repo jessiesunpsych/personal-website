@@ -1,6 +1,6 @@
 ---
 title: Social Interactions and Well-Being
-summary: What kinds of social interactions matter for well-being? Do different kinds of social interactions matter for different people?
+summary: What kinds of social interactions matter for well-being? Do some kinds of social interactions matter more for some people?
 tags:
 #- Morality
 date: ""
