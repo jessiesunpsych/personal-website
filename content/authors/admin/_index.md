@@ -74,6 +74,4 @@ I received my Ph.D. from UC Davis, where I worked in the [Personality and Self-
 
 In my personal life, I strive to promote well-being by living vegan and have [pledged to give](https://www.givingwhatwecan.org/about-us/members/#the-pledge-and-further-pledge-members) to the most [effective](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism) animal welfare and global poverty causes. For fun, I am a long-time [classical singer](https://soundcloud.com/jessie-sun-soprano) and enjoy [rock-climbing](https://www.facebook.com/sunshine.jessie/posts/10154927930196364) and dancing (bachata & kizomba). Thanks for visiting my page!
 
-{{% callout note %}}
-I am recruiting graduate students for admission at WashU in St. Louis in Fall 2022. Please click here for more information.
-{{% /callout %}}
+
