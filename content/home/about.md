@@ -19,3 +19,6 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+{{% callout note %}}
+I am recruiting graduate students for admission at WashU in St. Louis in Fall 2022. Please click [here](./publication/) for more information.
+{{% /callout %}}
