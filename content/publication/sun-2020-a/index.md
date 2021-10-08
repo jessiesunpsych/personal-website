@@ -10,8 +10,8 @@ authors:
 - Simine Vazire
 tags: []
 categories: []
-date: 2020-12-01''
-lastmod: 2020
+date: '2020'
+lastmod: 2021-10-05T20:39:10-04:00
 featured: true
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020'
+publishDate: '2021-10-06T00:39:09.913045Z'
 publication_types:
 - '2'
 abstract: ''
