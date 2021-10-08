@@ -33,7 +33,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
    #   5 = Showcase
-  view: 5
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
