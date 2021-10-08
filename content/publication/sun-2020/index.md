@@ -39,20 +39,7 @@ projects: []
 publishDate: '2021-10-06T00:39:09.686744Z'
 publication_types:
 - '2'
-abstract: Most people want to change some aspects of their personality, but does this
-  phenomenon extend to moral character and to close others? Targets (n = 800) rated
-  their personality traits and reported how much they wanted to change on each trait;
-  well-acquainted informants (n = 958) rated targets' personality traits and how much
-  they wanted the targets to change on those same traits. Targets and informants reported
-  a lower desire to change more morally relevant traits (e.g., honesty, compassion,
-  fairness) compared with less morally relevant traits (e.g., anxiety, sociability,
-  productiveness)—even after we controlled for current trait levels. Moreover, although
-  targets generally wanted to improve more on traits that they had less desirable
-  levels of, and informants wanted their targets to improve more on those traits as
-  well, targets' moral change goals were less calibrated to their current trait levels.
-  Finally, informants wanted targets to change in similar ways, but to a lesser extent,
-  than targets themselves did. These findings suggest that moral considerations take
-  a back seat when it comes to self-improvement.
+abstract: 
 publication: '*Psychological Science*'
 doi: 10.1177/0956797619893078
 ---
