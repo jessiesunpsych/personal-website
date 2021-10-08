@@ -34,5 +34,6 @@ publishDate: '2021-10-06T00:39:10.325741Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
+publication: '*Personality and Social Psychology Bulletin*'
+doi: 10.1177/0146167220964639
 ---

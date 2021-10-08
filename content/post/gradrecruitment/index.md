@@ -1,6 +1,6 @@
 ---
 title: Information for Prospective Graduate Students
-subtitle:
+subtitle: Thanks for your interest in joining the Well-Being and Morality Lab! Here's some information to give you a sense of whether the lab would be a good fit and what I'm looking for in a prospective graduate student.
 
 # Summary for listings and search engines
 summary: I am eager to recruit a graduate student to start with me and build the Well-Being and Morality Lab in Fall 2022. Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
