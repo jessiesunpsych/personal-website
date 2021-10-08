@@ -10,7 +10,7 @@ authors:
 - Simine Vazire
 tags: []
 categories: []
-date: '2020'
+date:'2020-01-01'
 lastmod: 2021-10-05T20:39:10-04:00
 featured: true
 draft: false
