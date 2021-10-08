@@ -69,7 +69,7 @@ Here are some of the key areas I will be focusing on when reviewing applications
 | Has strong reasoning and writing skills.   | Strong writing samples that are demonstrably your own work (i.e., not written in large part by an advisor). A publication or honors thesis would be helpful but **not** necessary; other writing samples could include a lab report, literature review, or other class paper.       |
 | Values collegiality and will be a helpful and cooperative labmate.   | Evidence might include specific examples in letters of recommendation (e.g., of how you have helped and supported others in your previous labs), or other examples of a demonstrated commitment to getting along with and being of service to others.      |
 
-## Frequently asked questions
+## Frequently Asked Questions
 
 **1. Are you considering applications from international students?**
 
