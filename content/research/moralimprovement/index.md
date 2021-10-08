@@ -1,6 +1,6 @@
 ---
 title: Moral Improvement
-summary: What inspires people to become more moral?
+summary: What's stopping people from being more moral? What inspires people to become more moral?
 tags:
 #- Morality
 date: ""

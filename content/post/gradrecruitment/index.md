@@ -45,7 +45,7 @@ Most people want to live a good life. But what does that involve? From a psychol
 
 Prospective students should be interested in at least one of the following research areas (click on the links to learn more):
 
-1. [**Moral improvement**](https://jessiesun.me/research/moralimprovement/): What inspires people to be more moral? What's stopping people from being more moral? What kinds of interventions would make people more moral?
+1. [**Moral improvement**](https://jessiesun.me/research/moralimprovement/): What's stopping people from being more moral? What inspires people to become more moral? What kinds of interventions would make people more moral?
 2. [**Morality and well-being**](https://jessiesun.me/research/moralitywellbeing/): Are moral people happier, or is there a tradeoff between well-being and morality? Do people overestimate the costs and underestimate the benefits of being more moral?
 3. [**Social interactions and well-being**](https://jessiesun.me/research/socialinteractions/): What kinds of social interactions matter for well-being? Do some kinds of social interactions matter more for some people? Which pairings of personality traits predict better social experiences?
 
@@ -74,7 +74,7 @@ Here are some of the key areas I will be focusing on when reviewing applications
 
 **1. Are you considering applications from international students?**
 
-Yes. International students will not be eligible for some of the fellowships that are available to US citizens (e.g., the NSF GRFP), but there will still be funding available if you are admitted.
+Yes. International students will not be eligible for some of the fellowships that are available to U.S. citizens (e.g., the NSF GRFP), but there will still be funding available if you are admitted.
 
 **2. I am applying for the Clinical Science program, but your research seems like a good fit with my interests. Can you be my primary research advisor?**
 
