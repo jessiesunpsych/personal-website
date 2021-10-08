@@ -1,9 +1,9 @@
 ---
 title: Information for Prospective Graduate Students
-subtitle: I am eager to recruit a graduate student to start with me and build the Well-Being and Morality Lab in Fall 2022. Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
+subtitle:
 
 # Summary for listings and search engines
-summary: Information for prospective graduate students of the Well-Being and Morality Lab at Washington University in St. Louis.
+summary: I am eager to recruit a graduate student to start with me and build the Well-Being and Morality Lab in Fall 2022. Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
 
 # Link this post with a project
 projects: []
