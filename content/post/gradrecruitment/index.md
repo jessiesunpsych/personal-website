@@ -53,7 +53,7 @@ Graduate students in the WAM Lab can expect to:
 
 1. Be trained as hybrid social-personality psychologists;
 2. Use a variety of naturalistic, ecologically-valid methods (e.g., informant reports, experience sampling, the Electronically Activated Recorder, daily life interventions);
-3. Receive training in advanced statistical techniques (e.g., multilevel modeling, structural equation modeling), R and Mplus, and the latest open science practices;
+3. Receive training in advanced statistical techniques (e.g., multilevel modeling, structural equation modeling, response surface analysis), R and Mplus, and the latest open science practices;
 4. Think deeply about issues of measurement (e.g., how can we best measure morality?) and validity;
 5. Have the freedom to design your own studies, as well as contribute to larger data collections and use existing rich, multi-method datasets.
 
