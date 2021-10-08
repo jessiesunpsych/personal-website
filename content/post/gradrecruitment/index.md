@@ -52,10 +52,11 @@ Prospective students should be interested in at least one of the following resea
 Graduate students in the WAM Lab can expect to:
 
 1. Be trained as hybrid social-personality psychologists;
-2. Use a variety of naturalistic methods (e.g., informant reports, experience sampling, the Electronically Activated Recorder, daily life interventions);
+2. Use a variety of naturalistic, ecologically-valid methods (e.g., informant reports, experience sampling, the Electronically Activated Recorder, daily life interventions);
 3. Receive training in advanced statistical techniques (e.g., multilevel modeling, structural equation modeling), R and Mplus, and the latest open science practices;
-4. Have the freedom to design your own studies, as well as contribute to larger data collections and use existing rich, multi-method datasets;
-5. Receive my full support if you later decide to pursue a non-academic career path (e.g., I will strongly encourage you to seek a non-academic summer internship sometime during your graduate school career).
+4. Think deeply about issues of measurement (e.g., how can we best measure morality?) and validity;
+5. Have the freedom to design your own studies, as well as contribute to larger data collections and use existing rich, multi-method datasets;
+6. Receive my full support if you later decide to pursue a non-academic career path (e.g., I will strongly encourage you to seek a non-academic summer internship sometime during your graduate school career).
 
 ## Selection Criteria
 
