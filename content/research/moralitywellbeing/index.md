@@ -1,6 +1,6 @@
 ---
 title: Morality and Well-Being
-summary: Are moral people happier, or is there a tradeoff between well-being and morality?
+summary: Is there a tradeoff between well-being and morality?
 tags:
 #- Morality
 date: ""
