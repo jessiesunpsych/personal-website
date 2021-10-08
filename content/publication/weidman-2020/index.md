@@ -19,7 +19,7 @@ tags:
 - '"Happy mood"'
 - '"Machine learning"'
 categories: []
-date: '2019-01-01'
+date: '2020'
 lastmod: 2021-10-05T20:39:10-04:00
 featured: false
 draft: false
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-06T00:39:10.542538Z'
+publishDate: '2020'
 publication_types:
 - '2'
 abstract: Recent popular claims surrounding virtual assistants suggest that computers
