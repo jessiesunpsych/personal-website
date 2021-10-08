@@ -20,7 +20,7 @@ tags:
 - '"Machine learning"'
 categories: []
 date: '2020'
-lastmod: 2021-10-05T20:39:10-04:00
+lastmod: 2020
 featured: false
 draft: false
 
