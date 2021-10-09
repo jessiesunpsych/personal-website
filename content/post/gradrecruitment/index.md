@@ -49,6 +49,8 @@ Prospective students should be interested in at least one of the following resea
 2. [**Morality and well-being**](https://jessiesun.me/research/moralitywellbeing/): Are moral people happier, or is there a tradeoff between well-being and morality? Do people overestimate the costs and underestimate the benefits of being more moral?
 3. [**Social interactions and well-being**](https://jessiesun.me/research/socialinteractions/): What kinds of social interactions matter for well-being? Do some kinds of social interactions matter more for some people? Which pairings of personality traits predict better social experiences?
 
+You can also listen to this episode of the [*Personality Psychology Podcast*](https://personalitypsychologypodcast.podbean.com/e/8-morality-and-moral-development-with-jessie-sun/) to hear more about the first two lines of research.
+
 Graduate students in the WAM Lab can expect to:
 
 1. Be trained as hybrid social-personality psychologists;
