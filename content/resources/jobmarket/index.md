@@ -43,7 +43,7 @@ For those who make it to the offer stage, I am also happy to share my startup re
 
 ### On the role of luck:
 
-{{< tweet 1438955900547391489 >}}
+{{< tweet 1438955882197381123 >}}
 
 ### Miscellaneous lessons (including how much effort it takes to get a job talk down):
 
