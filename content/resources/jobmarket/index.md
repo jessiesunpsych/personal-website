@@ -41,19 +41,23 @@ For those who make it to the offer stage, I am also happy to share my startup re
 
 ## Reflections and Lessons Learned
 
-On the role of luck:
+### On the role of luck:
 
 {{< tweet 1438955900547391489 >}}
 
-Miscellaneous lessons (including how much effort it takes to get a job talk down):
+### Miscellaneous lessons (including how much effort it takes to get a job talk down):
 
 {{< tweet 1447023490704543747 >}}
 
-On keeping perspective:
+### On keeping perspective:
 
 {{< tweet 1416153275338944512 >}}
 
-Initial reflections after year 1 on the market:
+### Initial reflections after year 1 on the market:
 
 {{< tweet 1249731532412993537 >}}
 
+## Other Resources
+
+- Jon Jachimowicz's [Q&A advice](https://twitter.com/jonj/status/1417910905191477260)
+- [Slides](https://www.slideshare.net/JayVanBavel/2019-demystifying-the-job-market) from Jay Van Bavel and Neil Lewis Jr's 2019 SISPP workshop, *Demystifying the academic job market*
