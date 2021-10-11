@@ -37,7 +37,7 @@ tags:
 categories:
 #- Test
 ---
-I am an incoming assistant professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis. I am eager to recruit a graduate student to start with me and build the Well-Being and Morality Lab in Fall 2022. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 1st, 2021**.
+I am an incoming assistant professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis. I am eager to recruit a graduate student to start with me and build the Well-Being and Morality Lab in Fall 2022.
 
 ## About the Well-Being and Morality Lab
 
@@ -58,6 +58,15 @@ Graduate students in the WAM Lab can expect to:
 3. Receive training in advanced statistical techniques (e.g., multilevel modeling, structural equation modeling, response surface analysis), R and Mplus, and the latest open science practices;
 4. Think deeply about issues of measurement (e.g., how can we best measure morality?) and validity;
 5. Have the freedom to design your own studies, as well as contribute to larger data collections and use existing rich, multi-method datasets.
+
+## Two Options for Joining the Lab
+
+I will be a faculty mentor for the graduate programs in (1) Psychological and Brain Sciences and (2) Computational and Data Sciences.
+
+### Psychological and Brain Sciences
+If you are accepted into the program, you would be admitted directly into my lab. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 1st, 2021**.
+### Computational and Data Sciences:
+This is a great opportunity for students who are seeking more intensive training in data science methods, while acquiring domain expertise in psychology. After rotations in Year 1, you may choose to work with me as your faculty mentor. I'd be especially excited to work with a student who is interested in the personality compatibility questions I outline [here](https://jessiesun.me/research/socialinteractions/), or more generally, in using machine learning methods to develop personalized well-being interventions. You can learn more about the graduate program [here](https://datasciences.wustl.edu/) and read about the application process [here](https://datasciences.wustl.edu/application-support/). The application deadline is **December 15, 2021**.
 
 ## Selection Criteria
 
