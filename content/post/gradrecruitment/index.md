@@ -61,11 +61,11 @@ Graduate students in the WAM Lab can expect to:
 
 ## Two Options for Joining the Lab
 
-I will be a faculty mentor for the graduate programs in (1) Psychological and Brain Sciences and (2) Computational and Data Sciences.
+I will be a faculty mentor for the graduate programs in (1) Psychological & Brain Sciences and (2) Computational & Data Sciences.
 
-### Psychological and Brain Sciences
+### PhD in Psychological & Brain Sciences
 If you are accepted into the program, you would be admitted directly into my lab. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 1st, 2021**.
-### Computational and Data Sciences:
+### PhD in Computational & Data Sciences
 This is a great opportunity for students who are seeking more intensive training in data science methods, while acquiring domain expertise in psychology. After rotations in Year 1, you may choose to work with me as your faculty mentor. I'd be especially excited to work with a student who is interested in the personality compatibility questions I outline [here](https://jessiesun.me/research/socialinteractions/), or more generally, in using machine learning methods to develop personalized well-being interventions. You can learn more about the graduate program [here](https://datasciences.wustl.edu/) and read about the application process [here](https://datasciences.wustl.edu/application-support/). The application deadline is **December 15, 2021**.
 
 ## Selection Criteria
