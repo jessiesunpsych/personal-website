@@ -29,6 +29,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: = ""
 ---
+## General Disclaimer
+
+My job market materials and experiences are primarily applicable to those who are applying for research-intensive positions in psychology departments in the U.S. and the U.K. None of this is meant to be prescriptive advice; YMMV!! Rather, because I benefited a lot from other people sharing their materials and experiences with me, I wanted to make my materials available as further *examples* that might be helpful.
+
 ## Job Market Materials
 
 Please visit [this OSF repository](https://osf.io/4a38g/) to download:
