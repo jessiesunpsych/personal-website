@@ -49,6 +49,8 @@ For those who make it to the offer stage, I am also happy to share my startup re
 
 {{< tweet 1447023490704543747 >}}
 
+{{< tweet 1447968968992509959 >}}
+
 ### On keeping perspective:
 
 {{< tweet 1416153275338944512 >}}
