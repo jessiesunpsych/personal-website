@@ -67,3 +67,4 @@ For those who make it to the offer stage, I am also happy to share my startup re
 
 - Jon Jachimowicz's [Q&A advice](https://twitter.com/jonj/status/1417910905191477260)
 - [Slides](https://www.slideshare.net/JayVanBavel/2019-demystifying-the-job-market) from Jay Van Bavel and Neil Lewis Jr's 2019 SISPP workshop, *Demystifying the academic job market*
+- Laurel Gabard-Durnam's [many helpful resources](https://www.plasticityinneurodevelopmentlab.com/resourcesforresearchers/project-three-cws4s)
