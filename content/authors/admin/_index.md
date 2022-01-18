@@ -68,11 +68,11 @@ email: ""
 highlight_name: true
 ---
 {{% callout note %}}
-I am recruiting graduate students for admission to Washington University in St. Louis in Fall 2022. Please click [here](https://jessiesun.me/post/gradrecruitment/) for more information.
+Dr. Emily Willroth and I are hiring a joint lab manager to start between August 1 - September 1, 2022. Please click [here](https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Research-Technician-II---Psychological---Brain-Sciences_JR64114) for more information.
 {{% /callout %}}
 
 I am a MindCORE Postdoctoral Fellow at the University of Pennsylvania ([CV](https://www.dropbox.com/s/534nos0ny72pok2/Sun_CV_2021.pdf?raw=1)). I will be an Assistant Professor at Washington University in St. Louis starting in Fall 2022. My research examines two fundamental aspects of the good life—well-being and morality—in real-world contexts. To study people “in the wild,” I use a diverse methodological toolkit, including experience sampling, naturalistic audio recordings, informant reports, and personality change interventions.
 
 I received my Ph.D. from UC Davis, where I worked in the Personality and Self-Knowledge Lab. Prior to graduate school, I received my BA (Honours) from the University of Melbourne and collaborated with the [Personality Processes Lab](http://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/personality-processes-laboratory), [Centre for Wellbeing Science](http://education.unimelb.edu.au/cpp/home), and the [Williams Social Emotions Lab](http://www.williamssocialemotionslab.com/).
 
-In my personal life, I strive to promote well-being by living vegan and have [pledged to give](https://www.givingwhatwecan.org/about-us/members/#the-pledge-and-further-pledge-members) to the most [effective](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism) animal welfare and global poverty causes. For fun, I am a long-time classical singer and enjoy rock-climbing and social dancing (bachata & kizomba). Thanks for visiting my website!
+In my personal life, I strive to promote well-being by living vegan and have [pledged to give](https://www.givingwhatwecan.org/about-us/members/#the-pledge-and-further-pledge-members) to the most [effective](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism) animal welfare and global poverty causes. For fun, I am a long-time classical singer and enjoy rock-climbing and social dancing (zouk & bachata). Thanks for visiting my website!
