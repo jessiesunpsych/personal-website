@@ -3,7 +3,7 @@ title: Information for Prospective Graduate Students
 subtitle: Thanks for your interest in joining the Well-Being and Morality Lab! Here's some information to give you a sense of whether the lab would be a good fit and what I'm looking for in a prospective graduate student.
 
 # Summary for listings and search engines
-summary: I am eager to recruit a graduate student to start with me and build the Well-Being and Morality Lab in Fall 2022. Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
+summary: I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2023. Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
 
 # Link this post with a project
 projects: []
@@ -37,7 +37,7 @@ tags:
 categories:
 #- Test
 ---
-I am an incoming assistant professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis. I am eager to recruit a graduate student to start with me and build the Well-Being and Morality Lab in Fall 2022.
+I am an incoming assistant professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis. I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2023.
 
 ## About the Well-Being and Morality Lab
 
@@ -64,9 +64,9 @@ Graduate students in the WAM Lab can expect to:
 I will be a faculty mentor for the graduate programs in (1) Psychological & Brain Sciences and (2) Computational & Data Sciences.
 
 ### PhD in Psychological & Brain Sciences
-If you are accepted into the program, you would be admitted directly into my lab. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 1st, 2021**.
+If you are accepted into the program, you would be admitted directly into my lab. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 1st, 2022**.
 ### PhD in Computational & Data Sciences
-This is a great opportunity for students who are seeking more intensive training in data science methods, while acquiring domain expertise in psychology. After rotations in Year 1, you may choose to work with me as your faculty mentor. I'd be especially excited to work with a student who is interested in the personality compatibility questions I outline [here](https://jessiesun.me/research/socialinteractions/), or more generally, in using machine learning methods to develop personalized well-being interventions. You can learn more about the graduate program [here](https://datasciences.wustl.edu/) and read about the application process [here](https://datasciences.wustl.edu/application-support/). The application deadline is **December 15, 2021**.
+This is a great opportunity for students who are seeking more intensive training in data science methods, while acquiring domain expertise in psychology. After rotations in Year 1, you may choose to work with me as your faculty mentor. I'd be especially excited to work with a student who is interested in the personality compatibility questions I outline [here](https://jessiesun.me/research/socialinteractions/), or more generally, in using machine learning methods to develop personalized well-being interventions. You can learn more about the graduate program [here](https://datasciences.wustl.edu/) and read about the application process [here](https://datasciences.wustl.edu/application-support/). The application deadline is **December 15, 2022**.
 
 ## Selection Criteria
 
@@ -76,7 +76,7 @@ Here are some of the key areas I will be focusing on when reviewing applications
 | ----------- | ----------- |
 | Has research interests in well-being, morality, or social interactions.      | You are able to provide a compelling narrative in the statement of purpose of how you came to become interested in this topic, and can provide examples of research questions you might be interested in investigating in graduate school.       |
 | Is resourceful and perseverant in the face of challenges.   | Provide examples of overcoming obstacles, finding alternative strategies/resources, and sticking with it (e.g., when learning difficult concepts, working on a challenging project, or pursuing goals in your personal life).      |
-| Is interested in learning and applying advanced quantitative techniques to studying psychological phenomena.    | Strong quantitative GRE scores are a good indicator, but they are **not** required this year. Taking and doing well in undergraduate statistics, math, or computer science classes is a good alternative indicator. |
+| Is interested in learning and applying advanced quantitative techniques to studying psychological phenomena.    | Strong quantitative GRE scores are a good indicator, but they are **not** required. Taking and doing well in undergraduate statistics, math, or computer science classes is a good alternative indicator. |
 | Has strong reasoning and writing skills.   | Strong writing samples that are demonstrably your own work (i.e., not written in large part by an advisor). A publication or honors thesis would be helpful but **not** necessary; other writing samples could include a lab report, literature review, or other class paper.       |
 | Values collegiality and will be a helpful and cooperative labmate.   | Evidence might include specific examples in letters of recommendation (e.g., of how you have helped and supported others in your previous labs), or other examples of a demonstrated commitment to getting along with and being of service to others.      |
 
@@ -92,4 +92,4 @@ It would most likely be more helpful to you if your primary advisor is a trained
 
 **3. I have more questions. Can we discuss further over email, phone, or Zoom?**
 
-If you have quick clarification questions, feel free to email me at jesssun@sas.upenn.edu. I'm also happy to chat over the phone if you need more information (e.g., about how well our research interests align) to decide **whether** to apply. You can schedule a phone call (or Zoom if you don't have a U.S. phone number) [here](https://calendly.com/jessiesunpsych/15min). I welcome your inquiries, but also look forward to carefully considering your application whether or not you get in touch beforehand!
+If you have quick clarification questions, feel free to email me at sjessie@wustl.edu. I'm also happy to chat over the phone if you need more information (e.g., about how well our research interests align) to decide **whether** to apply. You can schedule a phone call (or Zoom if you don't have a U.S. phone number) [here](https://calendly.com/jessiesunpsych/15min). I welcome your inquiries, but also look forward to carefully considering your application whether or not you get in touch beforehand!
