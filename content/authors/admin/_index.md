@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jesssun@sas.upenn.edu'
+  link: 'mailto:sjessie@wustl.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JessieSunPsych
@@ -68,8 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a MindCORE Postdoctoral Fellow at the University of Pennsylvania ([CV](https://www.dropbox.com/s/534nos0ny72pok2/Sun_CV_2021.pdf?raw=1)). I will be an Assistant Professor at Washington University in St. Louis starting in Fall 2022. My research examines two fundamental aspects of the good life—well-being and morality—in real-world contexts. To study people “in the wild,” I use a diverse methodological toolkit, including experience sampling, naturalistic audio recordings, informant reports, and personality change interventions.
-
-I received my Ph.D. from UC Davis, where I worked in the Personality and Self-Knowledge Lab. Prior to graduate school, I received my BA (Honours) from the University of Melbourne and collaborated with the [Personality Processes Lab](http://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/personality-processes-laboratory), [Centre for Wellbeing Science](http://education.unimelb.edu.au/cpp/home), and the [Williams Social Emotions Lab](http://www.williamssocialemotionslab.com/).
+I am an incoming Assistant Professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis, starting in Fall 2022. My research examines two fundamental aspects of the good life—well-being and morality—in real-world contexts. To study people “in the wild,” I use a diverse methodological toolkit, including experience sampling, naturalistic audio recordings, informant reports, and personality change interventions. Prior to joining WashU, I was a MindCORE Postdoctoral Fellow at the University of Pennsylvania, and I received my Ph.D. from UC Davis and my BA (Honours) from the University of Melbourne. For more details, please see my [CV](https://www.dropbox.com/s/534nos0ny72pok2/Sun_CV_2021.pdf?raw=1).
 
 In my personal life, I strive to promote well-being by living vegan and have [pledged to give](https://www.givingwhatwecan.org/about-us/members/#the-pledge-and-further-pledge-members) to the most [effective](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism) animal welfare and global poverty causes. For fun, I am an avid Brazilian Zouk dancer, a long-time classical singer, and enjoy rock-climbing. Thanks for visiting my website!
