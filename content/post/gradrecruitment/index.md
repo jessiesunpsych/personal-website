@@ -76,7 +76,7 @@ Here are some of the key areas I will be focusing on when reviewing applications
 | ----------- | ----------- |
 | Has research interests in well-being, morality, or social interactions.      | You are able to provide a compelling narrative in the statement of purpose of how you came to become interested in this topic, and can provide examples of research questions you might be interested in investigating in graduate school.       |
 | Is resourceful and perseverant in the face of challenges.   | Provide examples of overcoming obstacles, finding alternative strategies/resources, and sticking with it (e.g., when learning difficult concepts, working on a challenging project, or pursuing goals in your personal life).      |
-| Is interested in learning and applying advanced quantitative techniques to studying psychological phenomena.    | Strong quantitative GRE scores are a good indicator, but they are **not** required. Taking and doing well in undergraduate statistics, math, or computer science classes is a good alternative indicator. |
+| Is interested in learning and applying advanced quantitative techniques to studying psychological phenomena.    | Taking and doing well in undergraduate statistics, math, or computer science classes is a good indicator. |
 | Has strong reasoning and writing skills.   | Strong writing samples that are demonstrably your own work (i.e., not written in large part by an advisor). A publication or honors thesis would be helpful but **not** necessary; other writing samples could include a lab report, literature review, or other class paper.       |
 | Values collegiality and will be a helpful and cooperative labmate.   | Evidence might include specific examples in letters of recommendation (e.g., of how you have helped and supported others in your previous labs), or other examples of a demonstrated commitment to getting along with and being of service to others.      |
 
@@ -90,6 +90,9 @@ Yes. International students will not be eligible for some of the fellowships tha
 
 It would most likely be more helpful to you if your primary advisor is a trained clinical psychologist (which I am not). However, I am open to working with (e.g., co-advising or informally mentoring) students who are admitted into the Clinical Science area.
 
-**3. I have more questions. Can we discuss further over email, phone, or Zoom?**
+**3. Are GRE scores required?**
+Our department has adopted a policy of not requiring GRE scores. This means we will not consider GRE scores when making admission decisions.
 
-If you have quick clarification questions, feel free to email me at sjessie@wustl.edu. I'm also happy to chat over the phone if you need more information (e.g., about how well our research interests align) to decide **whether** to apply. You can schedule a phone call (or Zoom if you don't have a U.S. phone number) [here](https://calendly.com/jessiesunpsych/15min). I welcome your inquiries, but also look forward to carefully considering your application whether or not you get in touch beforehand!
+**4. I have more questions. Can we discuss further over email, phone, or Zoom?**
+
+If you have quick clarification questions, feel free to email me at sjessie@wustl.edu. I'm also happy to chat over the phone if you need more information (e.g., about how well our research interests align) to decide **whether** to apply. You can schedule a phone call by emailing me. I welcome your inquiries, but also look forward to carefully considering your application whether or not you get in touch beforehand!
