@@ -91,6 +91,7 @@ Yes. International students will not be eligible for some of the fellowships tha
 It would most likely be more helpful to you if your primary advisor is a trained clinical psychologist (which I am not). However, I am open to working with (e.g., co-advising or informally mentoring) students who are admitted into the Clinical Science area.
 
 **3. Are GRE scores required?**
+
 Our department has adopted a policy of not requiring GRE scores. This means we will not consider GRE scores when making admission decisions.
 
 **4. I have more questions. Can we discuss further over email, phone, or Zoom?**
