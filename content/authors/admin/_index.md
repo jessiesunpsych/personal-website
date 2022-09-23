@@ -6,12 +6,12 @@ title: Jessie Sun
 superuser: true
 
 # Role/position/tagline
-role: MindCORE Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pennsylvania
-  url: https://www.upenn.edu
+- name: Washington University in St. Louis
+  url: https://psych.wustl.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include well-being, moral psychology, social interactions, and personality.
@@ -72,6 +72,6 @@ highlight_name: true
 I will be recruiting a new graduate student to start in Fall 2023. Please read [this page](https://jessiesun.me/post/gradrecruitment/) for more information.
 {{% /callout %}}
 
-I am an incoming Assistant Professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis, starting in Fall 2022. My research examines two fundamental aspects of the good life—well-being and morality—in real-world contexts. To study people “in the wild,” I use a diverse methodological toolkit, including experience sampling, naturalistic audio recordings, informant reports, and personality change interventions. Prior to joining WashU, I was a MindCORE Postdoctoral Fellow at the University of Pennsylvania, and I received my Ph.D. from UC Davis and my BA (Honours) from the University of Melbourne. For more details, please see my [CV](https://www.dropbox.com/s/534nos0ny72pok2/Sun_CV_2021.pdf?raw=1).
+I am an Assistant Professor of Psychological and Brain Sciences at Washington University in St. Louis. My research examines two fundamental aspects of the good life—well-being and morality—in real-world contexts. To study people “in the wild,” I use a diverse methodological toolkit, including experience sampling, naturalistic audio recordings, informant reports, and personality change interventions. Prior to joining WashU, I was a MindCORE Postdoctoral Fellow at the University of Pennsylvania, and I received my Ph.D. from UC Davis and my BA (Honours) from the University of Melbourne. For more details, please see my [CV](https://www.dropbox.com/s/534nos0ny72pok2/Sun_CV_2021.pdf?raw=1).
 
 In my personal life, I strive to promote well-being by living vegan and have [pledged to give](https://www.givingwhatwecan.org/about-us/members/#the-pledge-and-further-pledge-members) to the most [effective](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism) animal welfare and global poverty causes. For fun, I am an avid Brazilian Zouk dancer, a long-time classical singer, rock-climber, and dog-mom to my Pomeranian, [Kumara](https://www.dropbox.com/s/blb7q7yv5ed55bs/kumara.jpeg?dl=0). Thanks for visiting my website!
