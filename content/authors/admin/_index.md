@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sjessie@wustl.edu'
+  link: 'mailto:jessie.sun@wustl.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JessieSunPsych
