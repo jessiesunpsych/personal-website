@@ -96,4 +96,4 @@ Our department has adopted a policy of not requiring GRE scores. This means we w
 
 **4. I have more questions. Can we discuss further over email, phone, or Zoom?**
 
-If you have quick clarification questions, feel free to email me at sjessie@wustl.edu. I'm also happy to chat over the phone if you need more information (e.g., about how well our research interests align) to decide **whether** to apply. You can schedule a phone call by emailing me. I welcome your inquiries, but also look forward to carefully considering your application whether or not you get in touch beforehand!
+If you have quick clarification questions, feel free to email me at jessie.sun@wustl.edu. I'm also happy to chat over the phone if you need more information (e.g., about how well our research interests align) to decide **whether** to apply. You can schedule a phone call by emailing me. I welcome your inquiries, but also look forward to carefully considering your application whether or not you get in touch beforehand!
