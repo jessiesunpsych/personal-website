@@ -20,7 +20,7 @@ main:
     url: '#resources'
     weight: 50 
   - name: CV
-    url: https://www.dropbox.com/s/534nos0ny72pok2/Sun_CV_2021.pdf?raw=1
+    url: https://www.dropbox.com/s/ihztn8ux7bxfwxx/Sun_CV.pdf?raw=1
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
