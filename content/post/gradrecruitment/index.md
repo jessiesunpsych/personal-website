@@ -94,6 +94,10 @@ It would most likely be more helpful to you if your primary advisor is a trained
 
 Our department has adopted a policy of not requiring GRE scores. This means we will not consider GRE scores when making admission decisions.
 
-**4. I have more questions. Can we discuss further over email, phone, or Zoom?**
+**4. What is the stipend level at WashU?**
+
+WashU recently increased their graduate student stipend to >**$34,000** per year for PhD programs across the College of Arts and Sciences. This generous stipend, combined with the relatively low cost of living in St. Louis, makes it likely that you will be financially comfortable as a graduate student at WashU.
+
+**5. I have more questions. Can we discuss further over email, phone, or Zoom?**
 
 If you have quick clarification questions, feel free to email me at jessie.sun@wustl.edu. I'm also happy to chat over the phone if you need more information (e.g., about how well our research interests align) to decide **whether** to apply. You can schedule a phone call by emailing me. I welcome your inquiries, but also look forward to carefully considering your application whether or not you get in touch beforehand!
