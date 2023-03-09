@@ -68,10 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-{{% callout note %}}
-I will be recruiting a new graduate student to start in Fall 2023. Please read [this page](https://jessiesun.me/post/gradrecruitment/) for more information.
-{{% /callout %}}
-
 I am an Assistant Professor of Psychological and Brain Sciences at Washington University in St. Louis. My research examines two fundamental aspects of the good life—well-being and morality—in real-world contexts. To study people “in the wild,” I use a diverse methodological toolkit, including experience sampling, naturalistic audio recordings, informant reports, and personality change interventions. Prior to joining WashU, I was a MindCORE Postdoctoral Fellow at the University of Pennsylvania, and I received my Ph.D. from UC Davis and my BA (Honours) from the University of Melbourne. For more details, please see my [CV](https://www.dropbox.com/s/ihztn8ux7bxfwxx/Sun_CV.pdf?raw=1).
 
 In my personal life, I strive to promote well-being by living vegan and have [pledged to give](https://www.givingwhatwecan.org/about-us/members/#the-pledge-and-further-pledge-members) to the most [effective](https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism) animal welfare and global poverty causes. For fun, I am an avid Brazilian Zouk dancer, a long-time classical singer, rock-climber, and dog-mom to my Pomeranian, [Kumara](https://www.dropbox.com/s/blb7q7yv5ed55bs/kumara.jpeg?dl=0). Thanks for visiting my website!
