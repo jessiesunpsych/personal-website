@@ -3,7 +3,7 @@ title: Information for Prospective Graduate Students
 subtitle: Thanks for your interest in joining the Well-Being and Morality Lab! Here's some information to give you a sense of whether the lab would be a good fit and what I'm looking for in a prospective graduate student.
 
 # Summary for listings and search engines
-summary: I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2023. Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
+summary: I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2024. Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
 
 # Link this post with a project
 projects: []
@@ -37,7 +37,7 @@ tags:
 categories:
 #- Test
 ---
-I am an incoming assistant professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis. I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2023.
+I am an incoming assistant professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis. I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2024.
 
 ## About the Well-Being and Morality Lab
 
@@ -64,9 +64,9 @@ Graduate students in the WAM Lab can expect to:
 I will be a faculty mentor for the graduate programs in (1) Psychological & Brain Sciences and (2) Computational & Data Sciences.
 
 ### PhD in Psychological & Brain Sciences
-If you are accepted into the program, you would be admitted directly into my lab. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 1st, 2022**.
+If you are accepted into the program, you would be admitted directly into my lab. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 1st, 2023**.
 ### PhD in Computational & Data Sciences
-This is a great opportunity for students who are seeking more intensive training in data science methods, while acquiring domain expertise in psychology. After rotations in Year 1, you may choose to work with me as your faculty mentor. I'd be especially excited to work with a student who is interested in the personality compatibility questions I outline [here](https://jessiesun.me/research/socialinteractions/), or more generally, in using machine learning methods to develop personalized well-being interventions. You can learn more about the graduate program [here](https://datasciences.wustl.edu/) and read about the application process [here](https://datasciences.wustl.edu/application-support/). The application deadline is **December 15, 2022**.
+This is a great opportunity for students who are seeking more intensive training in data science methods, while acquiring domain expertise in psychology. After rotations in Year 1, you may choose to work with me as your faculty mentor. I'd be especially excited to work with a student who is interested in the personality compatibility questions I outline [here](https://jessiesun.me/research/socialinteractions/), or more generally, in using machine learning methods to develop personalized well-being interventions. You can learn more about the graduate program [here](https://datasciences.wustl.edu/) and read about the application process [here](https://datasciences.wustl.edu/application-support/). The application deadline is **December 15, 2023**.
 
 ## Selection Criteria
 
@@ -100,4 +100,4 @@ WashU recently increased their graduate student stipend to >**$34,000** per year
 
 **5. I have more questions. Can we discuss further over email, phone, or Zoom?**
 
-If you have quick clarification questions, feel free to email me at jessie.sun@wustl.edu. I'm also happy to chat over the phone if you need more information (e.g., about how well our research interests align) to decide **whether** to apply. You can schedule a phone call by emailing me. I welcome your inquiries, but also look forward to carefully considering your application whether or not you get in touch beforehand!
+For equity reasons, I do not meet with potential applicants before the application date has closed. If you have quick clarification questions, feel free to email me at jessie.sun@wustl.edu!
