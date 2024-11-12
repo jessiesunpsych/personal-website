@@ -37,7 +37,7 @@ tags:
 categories:
 #- Test
 ---
-I am an incoming assistant professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis. I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2024.
+I am an incoming assistant professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis. I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2025. This cycle, I am especially interested in recruiting a student who is interested in researching social interactions and well-being.
 
 ## About the Well-Being and Morality Lab
 
@@ -45,11 +45,11 @@ Most people want to live a good life. But what does that involve? From a psychol
 
 Prospective students should be interested in at least one of the following research areas (click on the links to learn more):
 
-1. [**Moral improvement**](https://jessiesun.me/research/moralimprovement/): What's stopping people from being more moral? What inspires people to become more moral? What kinds of interventions would make people more moral?
-2. [**Morality and well-being**](https://jessiesun.me/research/moralitywellbeing/): Are moral people happier, or is there a tradeoff between well-being and morality? Do people overestimate the costs and underestimate the benefits of being more moral?
-3. [**Social interactions and well-being**](https://jessiesun.me/research/socialinteractions/): What kinds of social interactions matter for well-being? Do some kinds of social interactions matter more for some people? Which pairings of personality traits predict better social experiences?
+1. [**Social interactions and well-being**](https://jessiesun.me/research/socialinteractions/): What kinds of social interactions matter for well-being? Are social interactions better when you initiate them or when someone else does? Can people improve their social lives by moving to neighborhoods or cities with more opportunities for social interaction? Which pairings of personality traits predict better social experiences?
+2. [**Moral improvement**](https://jessiesun.me/research/moralimprovement/): What's stopping people from being more moral? What inspires people to become more moral? What kinds of interventions would make people more moral?
+3. [**Morality and well-being**](https://jessiesun.me/research/moralitywellbeing/): Are moral people happier, or is there a tradeoff between well-being and morality? Do people overestimate the costs and underestimate the benefits of being more moral?
 
-You can also listen to this episode of the [*Personality Psychology Podcast*](https://personalitypsychologypodcast.podbean.com/e/8-morality-and-moral-development-with-jessie-sun/) to hear more about the first two lines of research.
+You can also listen to this episode of the [*Personality Psychology Podcast*](https://personalitypsychologypodcast.podbean.com/e/8-morality-and-moral-development-with-jessie-sun/) to hear more about the morality lines of research.
 
 Graduate students in the WAM Lab can expect to:
 
@@ -64,9 +64,9 @@ Graduate students in the WAM Lab can expect to:
 I will be a faculty mentor for the graduate programs in (1) Psychological & Brain Sciences and (2) Computational & Data Sciences.
 
 ### PhD in Psychological & Brain Sciences
-If you are accepted into the program, you would be admitted directly into my lab. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 1st, 2023**.
+If you are accepted into the program, you would be admitted directly into my lab. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 4, 2024**.
 ### PhD in Computational & Data Sciences
-This is a great opportunity for students who are seeking more intensive training in data science methods, while acquiring domain expertise in psychology. After rotations in Year 1, you may choose to work with me as your faculty mentor. I'd be especially excited to work with a student who is interested in the personality compatibility questions I outline [here](https://jessiesun.me/research/socialinteractions/), or more generally, in using machine learning methods to develop personalized well-being interventions. You can learn more about the graduate program [here](https://datasciences.wustl.edu/) and read about the application process [here](https://datasciences.wustl.edu/application-support/). The application deadline is **December 15, 2023**.
+This is a great opportunity for students who are seeking more intensive training in data science methods, while acquiring domain expertise in psychology. After rotations in Year 1, you may choose to work with me as your faculty mentor. I'd be especially excited to work with a student who is interested in the personality compatibility questions I outline [here](https://jessiesun.me/research/socialinteractions/), or more generally, in using machine learning methods to develop personalized well-being interventions. You can learn more about the graduate program [here](https://datasciences.wustl.edu/) and read about the application process [here](https://datasciences.wustl.edu/application-support/). The application deadline is **December 15, 2024**.
 
 ## Selection Criteria
 
@@ -96,7 +96,7 @@ Our department has adopted a policy of not requiring GRE scores. This means we w
 
 **4. What is the stipend level at WashU?**
 
-WashU recently increased their graduate student stipend to >**$34,000** per year for PhD programs across the College of Arts and Sciences. This generous stipend, combined with the relatively low cost of living in St. Louis, makes it likely that you will be financially comfortable as a graduate student at WashU.
+WashU recently increased their graduate student stipend to >**$36,000** per year for PhD programs across the College of Arts and Sciences. This generous stipend, combined with the relatively low cost of living in St. Louis, makes it likely that you will be financially comfortable as a graduate student at WashU.
 
 **5. I have more questions. Can we discuss further over email, phone, or Zoom?**
 
