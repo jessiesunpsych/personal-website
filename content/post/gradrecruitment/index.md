@@ -45,7 +45,7 @@ Most people want to live a good life. But what does that involve? From a psychol
 
 Prospective students should be interested in at least one of the following research areas (click on the links to learn more):
 
-1. [**Social interactions and well-being**](https://jessiesun.me/research/socialinteractions/): What kinds of social interactions matter for well-being? Are social interactions better when you initiate them or when someone else does? Can people improve their social lives by moving to neighborhoods or cities with more opportunities for social interaction? Which pairings of personality traits predict better social experiences?
+1. [**Social interactions and well-being**](https://jessiesun.me/research/socialinteractions/): Are social interactions better when you initiate them or when someone else does? Can people improve their social lives by moving to neighborhoods or cities with more opportunities for social interaction? Which pairings of personality traits predict better social experiences?
 2. [**Moral improvement**](https://jessiesun.me/research/moralimprovement/): What's stopping people from being more moral? What inspires people to become more moral? What kinds of interventions would make people more moral?
 3. [**Morality and well-being**](https://jessiesun.me/research/moralitywellbeing/): Are moral people happier, or is there a tradeoff between well-being and morality? Do people overestimate the costs and underestimate the benefits of being more moral?
 
