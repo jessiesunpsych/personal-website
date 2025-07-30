@@ -26,7 +26,7 @@ image:
   preview_only: false
 
 projects: []
-publishDate: '2025-07-30T00:00:00Z'
+publishDate: '2025-01-13T00:00:00Z'
 publication_types:
 - '2'
 abstract: ''
