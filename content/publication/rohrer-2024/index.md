@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The effects of satisfaction with different domains of life on general life satisfaction vary between individuals (but we cannot tell you why)
+title: "The effects of satisfaction with different domains of life on general life satisfaction vary between individuals (but we cannot tell you why)"
 subtitle: ''
 summary: ''
 authors:
