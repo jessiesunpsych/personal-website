@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ESM-Q: A consensus-based quality assessment tool for experience sampling method items
+title: "ESM-Q: A consensus-based quality assessment tool for experience sampling method items"
 subtitle: ''
 summary: ''
 authors:
@@ -35,6 +35,3 @@ publishDate: '2025-07-30T00:00:00Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Behavior Research Methods*'
-doi: 10.3758/s13428-025-02626-1
----
