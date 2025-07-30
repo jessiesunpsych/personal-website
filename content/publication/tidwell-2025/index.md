@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Are women really (not) more talkative than men? A registered report of binary gender similarities/differences in daily word use
+title: "Are women really (not) more talkative than men? A registered report of binary gender similarities/differences in daily word use"
 subtitle: ''
 summary: ''
 authors:
@@ -20,16 +20,16 @@ featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
 projects: []
 publishDate: '2025-07-30T00:00:00Z'
 publication_types:
 - '2'
-a
+abstract: ''
+publication: '*Journal of Personality and Social Psychology*'
+doi: 10.1037/pspp0000534
+---
