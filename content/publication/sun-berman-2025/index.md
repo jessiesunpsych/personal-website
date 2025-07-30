@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: What’s in it for me? Beliefs about relative costs to well-being explain why people deprioritize moral improvements
+title: "What’s in it for me? Beliefs about relative costs to well-being explain why people deprioritize moral improvements"
 subtitle: ''
 summary: ''
 authors:
