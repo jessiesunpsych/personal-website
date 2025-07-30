@@ -30,5 +30,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Behavior Research Methods*'
-doi: ''
+doi: '10.3758/s13428-025-02626-1'
 ---
