@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: What is the moral person like? An examination of the shared and unique perspectives on moral character
+title: "What is the moral person like? An examination of the shared and unique perspectives on moral character"
 subtitle: ''
 summary: ''
 authors:
