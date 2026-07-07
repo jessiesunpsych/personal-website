@@ -1,9 +1,9 @@
 ---
-title: Information for Prospective Graduate Students
+title: Information for Prospective PhD Students
 subtitle: Thanks for your interest in joining the Well-Being and Morality Lab! Here's some information to give you a sense of whether the lab would be a good fit and what I'm looking for in a prospective graduate student.
 
 # Summary for listings and search engines
-summary: I am eager to recruit a graduate student to join the Well-Being and Morality Lab (ongoing, as of July 2026). Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
+summary: I am eager to recruit a PhD student to join the Well-Being and Morality Lab (ongoing, as of July 2026). Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
 
 # Link this post with a project
 projects: []
@@ -37,7 +37,7 @@ tags:
 categories:
 #- Test
 ---
-I am a Lecturer (NZ equivalent of Assistant Professor) in the School of Psychology at the University of Auckland. I am eager to recruit a graduate student to join the Well-Being and Morality Lab. Currently, I am especially interested in recruiting a student who is interested in researching how neighbourhood features shape social connectedness, but I am open to considering students whose research interests fall within any of the lab's three research areas (see below).
+I am a Lecturer (NZ equivalent of Assistant Professor) in the School of Psychology at the University of Auckland. I am eager to recruit a PhD student to join the Well-Being and Morality Lab. Currently, I am especially interested in recruiting a student who is interested in researching how neighbourhood features shape social connectedness, but I am open to considering students whose research interests fall within any of the lab's three research areas (see below).
 
 ## About the Well-Being and Morality Lab
 
