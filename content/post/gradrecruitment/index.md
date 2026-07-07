@@ -3,7 +3,7 @@ title: Information for Prospective Graduate Students
 subtitle: Thanks for your interest in joining the Well-Being and Morality Lab! Here's some information to give you a sense of whether the lab would be a good fit and what I'm looking for in a prospective graduate student.
 
 # Summary for listings and search engines
-summary: I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2024. Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
+summary: I am eager to recruit a graduate student to join the Well-Being and Morality Lab (ongoing, as of July 2026). Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
 
 # Link this post with a project
 projects: []
@@ -37,7 +37,7 @@ tags:
 categories:
 #- Test
 ---
-I am an incoming assistant professor in the Department of Psychological and Brain Sciences at Washington University in St. Louis. I am eager to recruit a graduate student to join the Well-Being and Morality Lab in Fall 2025. This cycle, I am especially interested in recruiting a student who is interested in researching social interactions and well-being.
+I am a Lecturer (NZ equivalent of Assistant Professor) in the School of Psychology at the University of Auckland. I am eager to recruit a graduate student to join the Well-Being and Morality Lab. Currently, I am especially interested in recruiting a student who is interested in researching how neighbourhood features shape social connectedness, but I am open to considering students whose research interests fall within any of the lab's three research areas (see below).
 
 ## About the Well-Being and Morality Lab
 
@@ -57,20 +57,17 @@ Graduate students in the WAM Lab can expect to:
 2. Use a variety of naturalistic, ecologically-valid methods (e.g., informant reports, experience sampling, the Electronically Activated Recorder, daily life interventions);
 3. Receive training in advanced statistical techniques (e.g., multilevel modeling, structural equation modeling, response surface analysis), R and Mplus, and the latest open science practices;
 4. Think deeply about issues of measurement (e.g., how can we best measure morality?) and validity;
-5. Have the freedom to design your own studies, as well as contribute to larger data collections and use existing rich, multi-method datasets.
+5. Have some freedom to design your own studies (with the scope being dependent on funding availability), as well as contribute to larger data collections and use existing rich, multi-method datasets.
 
-## Two Options for Joining the Lab
+## How to Join the Lab
 
-I will be a faculty mentor for the graduate programs in (1) Psychological & Brain Sciences and (2) Computational & Data Sciences.
+At the University of Auckland, there is no set "cycle" for PhD admission. You can apply any time--see instructions [here](https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/doctoral-applications.html). All applicants (including international applicants) will be considered for a [doctoral scholarship](https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html), which provides a tax-free stipend of $35,468 per year (plus tuition fees) for up to 42 months FTE. Scholarship offers come out four times per year depending on when you apply (see [Scholarship website](https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html) for details).
 
-### PhD in Psychological & Brain Sciences
-If you are accepted into the program, you would be admitted directly into my lab. You can learn more about the graduate program [here](https://psych.wustl.edu/graduate-program) and read about the application process [here](https://psych.wustl.edu/apply). The application deadline is **December 4, 2024**.
-### PhD in Computational & Data Sciences
-This is a great opportunity for students who are seeking more intensive training in data science methods, while acquiring domain expertise in psychology. After rotations in Year 1, you may choose to work with me as your faculty mentor. I'd be especially excited to work with a student who is interested in the personality compatibility questions I outline [here](https://jessiesun.me/research/socialinteractions/), or more generally, in using machine learning methods to develop personalized well-being interventions. You can learn more about the graduate program [here](https://datasciences.wustl.edu/) and read about the application process [here](https://datasciences.wustl.edu/application-support/). The application deadline is **December 15, 2024**.
+If you are interested in doing a PhD with me, please get in touch with me (jessie.sun@auckland.ac.nz) to discuss potential projects and research fit. You should send your CV and a brief description of your research interests.
 
 ## Selection Criteria
 
-Here are some of the key areas I will be focusing on when reviewing applications, and examples of how you might demonstrate these capabilities.
+Here are some of the key areas I will be focusing on when considering potential PhD candidates, and examples of how you might demonstrate these capabilities.
 
 | Criterion      | Example Evidence |
 | ----------- | ----------- |
@@ -79,25 +76,3 @@ Here are some of the key areas I will be focusing on when reviewing applications
 | Is interested in learning and applying advanced quantitative techniques to studying psychological phenomena.    | Taking and doing well in undergraduate statistics, math, or computer science classes is a good indicator. |
 | Has strong reasoning and writing skills.   | Strong writing samples that are demonstrably your own work (i.e., not written in large part by an advisor). A publication or honors thesis would be helpful but **not** necessary; other writing samples could include a lab report, literature review, or other class paper.       |
 | Values collegiality and will be a helpful and cooperative labmate.   | Evidence might include specific examples in letters of recommendation (e.g., of how you have helped and supported others in your previous labs), or other examples of a demonstrated commitment to getting along with and being of service to others.      |
-
-## Frequently Asked Questions
-
-**1. Are you considering applications from international students?**
-
-Yes. International students will not be eligible for some of the fellowships that are available to U.S. citizens (e.g., the NSF GRFP), but there will still be funding available if you are admitted.
-
-**2. I am applying for the Clinical Science program, but your research seems like a good fit with my interests. Can you be my primary research advisor?**
-
-It would most likely be more helpful to you if your primary advisor is a trained clinical psychologist (which I am not). However, I am open to working with (e.g., co-advising or informally mentoring) students who are admitted into the Clinical Science area.
-
-**3. Are GRE scores required?**
-
-Our department has adopted a policy of not requiring GRE scores. This means we will not consider GRE scores when making admission decisions.
-
-**4. What is the stipend level at WashU?**
-
-WashU recently increased their graduate student stipend to >**$36,000** per year for PhD programs across the College of Arts and Sciences. This generous stipend, combined with the relatively low cost of living in St. Louis, makes it likely that you will be financially comfortable as a graduate student at WashU.
-
-**5. I have more questions. Can we discuss further over email, phone, or Zoom?**
-
-For equity reasons, I do not meet with potential applicants before the application date has closed. If you have quick clarification questions, feel free to email me at jessie.sun@wustl.edu!
