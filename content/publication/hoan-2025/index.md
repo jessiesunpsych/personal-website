@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: With or without you? People feel less autonomous during social interactions, except with close others'
+title: 'With or without you? People feel less autonomous during social interactions, except with close others'
 subtitle: ''
 summary: ''
 authors:
