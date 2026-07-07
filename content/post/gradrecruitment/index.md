@@ -65,9 +65,9 @@ At the University of Auckland, there is no set "cycle" for PhD admissions. You c
 
 If you are interested in doing a PhD with me, please get in touch with me (jessie.sun@auckland.ac.nz) to discuss potential projects and research fit. You should send your CV and a brief description of your research interests.
 
-## Selection Criteria
+## My Selection Criteria
 
-Here are some of the key areas I will be focusing on when considering potential PhD candidates, and examples of how you might demonstrate these capabilities.
+Here are some of the key areas I will be focusing on when considering potential PhD students, and examples of how you might demonstrate these capabilities.
 
 | Criterion      | Example Evidence |
 | ----------- | ----------- |
