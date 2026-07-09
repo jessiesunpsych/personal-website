@@ -63,7 +63,7 @@ Graduate students in the WAM Lab can expect to:
 
 At the University of Auckland, there is no set "cycle" for PhD admissions. You can apply any time, but scholarship offers come out four times per year, depending on when you apply. See instructions [here](https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/doctoral-applications.html). All applicants (including international applicants) will be considered for a [doctoral scholarship](https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html), which provides a tax-free stipend of $35,468 per year (plus tuition fees, and health insurance for international students) for up to 3.5 years FTE (3.5 years is the standard length of a PhD in New Zealand). Most PhD students also take on additional paid work as a Tutor (i.e., teaching assistant) or Graduate Research Assistant.
 
-If you are interested in doing a PhD with me, please get in touch with me (jessie.sun@auckland.ac.nz) to discuss potential projects and research fit. You should send your CV and a brief description of your research interests.
+If you are interested in doing a PhD with me, please get in touch with me (jessie.sun@auckland.ac.nz) to discuss potential projects and research fit. You should send your CV and a brief description of your research experience and interests.
 
 ## My Selection Criteria
 
