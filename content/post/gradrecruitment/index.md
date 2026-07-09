@@ -1,9 +1,9 @@
 ---
 title: Information for Prospective PhD Students
-subtitle: Thanks for your interest in joining the Well-Being and Morality Lab! Here's some information to give you a sense of whether the lab would be a good fit and what I'm looking for in a prospective graduate student.
+subtitle: Thanks for your interest in joining the Well-Being and Morality Lab! Here's some information to give you a sense of whether the lab would be a good fit and what I'm looking for in a prospective PhD student.
 
 # Summary for listings and search engines
-summary: I am eager to recruit a PhD student to join the Well-Being and Morality Lab (ongoing, as of July 2026). Read on to find out more about the lab and what I'm looking for in a prospective graduate student.
+summary: I am eager to recruit a PhD student to join the Well-Being and Morality Lab (ongoing, as of July 2026). Read on to find out more about the lab and what I'm looking for in a prospective PhD student.
 
 # Link this post with a project
 projects: []
@@ -61,7 +61,7 @@ Graduate students in the WAM Lab can expect to:
 
 ## How to Join the Lab
 
-At the University of Auckland, there is no set "cycle" for PhD admissions. You can apply any time--see instructions [here](https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/doctoral-applications.html). All applicants (including international applicants) will be considered for a [doctoral scholarship](https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html), which provides a tax-free stipend of $35,468 per year (plus tuition fees) for up to 42 months FTE (3.5 years is the standard length of a PhD in New Zealand). Scholarship offers come out four times per year depending on when you apply (see [Scholarship website](https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html) for details).
+At the University of Auckland, there is no set "cycle" for PhD admissions. You can apply any time, but scholarship offers come out four times per year, depending on when you apply. See instructions [here](https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/doctoral-applications.html). All applicants (including international applicants) will be considered for a [doctoral scholarship](https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html), which provides a tax-free stipend of $35,468 per year (plus tuition fees, and health insurance for international students) for up to 3.5 years FTE (3.5 years is the standard length of a PhD in New Zealand). Most PhD students also take on additional paid work as a Tutor (i.e., teaching assistant) or Graduate Research Assistant.
 
 If you are interested in doing a PhD with me, please get in touch with me (jessie.sun@auckland.ac.nz) to discuss potential projects and research fit. You should send your CV and a brief description of your research interests.
 
@@ -71,7 +71,7 @@ Here are some of the key areas I will be focusing on when considering potential 
 
 | Criterion      | Example Evidence |
 | ----------- | ----------- |
-| Has research interests in well-being, morality, or social interactions.      | You are able to provide a compelling narrative in the statement of purpose of how you came to become interested in this topic, and can provide examples of research questions you might be interested in investigating in graduate school.       |
+| Has research interests in well-being, morality, or social interactions.      | In our initial discussions, you should be able to provide examples of research questions you might be interested in investigating during your PhD.       |
 | Is resourceful and perseverant in the face of challenges.   | Provide examples of overcoming obstacles, finding alternative strategies/resources, and sticking with it (e.g., when learning difficult concepts, working on a challenging project, or pursuing goals in your personal life).      |
 | Is interested in learning and applying advanced quantitative techniques to studying psychological phenomena.    | Taking and doing well in undergraduate statistics, math, or computer science classes is a good indicator. |
 | Has strong reasoning and writing skills.   | Strong writing samples that are demonstrably your own work (i.e., not written in large part by an advisor). A publication or honors thesis would be helpful but **not** necessary; other writing samples could include a lab report, literature review, or other class paper.       |
