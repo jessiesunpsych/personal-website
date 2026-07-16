@@ -13,18 +13,15 @@ main:
   - name: Lab Members
     url: /people/
     weight: 30
-  - name: Posts
-    url: '#posts'
-    weight: 40
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 40
   - name: Resources
     url: '#resources'
-    weight: 60 
+    weight: 50 
   - name: CV
     url: https://www.dropbox.com/s/ihztn8ux7bxfwxx/Sun_CV.pdf?raw=1
-    weight: 70
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
