@@ -1,0 +1,31 @@
+.member {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.member-photo {
+  width: 180px;
+  height: auto;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.member-info {
+  flex: 1;
+}
+
+.member-info h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .member {
+    flex-direction: column;
+  }
+
+  .member-photo {
+    width: 150px;
+  }
+}
