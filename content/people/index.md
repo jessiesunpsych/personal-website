@@ -1,5 +1,5 @@
 ---
-title: Lab Members
+title: Well-Being and Morality Lab Members
 date: 2026-07-16
 type: page
 ---
