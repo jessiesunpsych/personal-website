@@ -14,9 +14,11 @@ type: page
 
 **PhD Student**
 
-Ben Hardin is a 4th year doctoral student in the WAM Lab at WashU. Broadly, he is interested in moral character and moral improvement. His specific research interests include investigating the psychological mechanisms that influence different moral character traits (e.g., honesty, compassion, humility), the factors that inspire people to want to become more moral, and the steps people can take to achieve their moral improvement goals. Prior to joining the WAM Lab, Ben received his BA from the University of Mississippi and his MA from Wake Forest University. In his free time, he enjoys listening to and performing music, reading, and playing tabletop games.
+Ben is a 4th year PhD student in Psychological and Brain Sciences at Washington University in St. Louis. His research seeks to understand the nature of morally valued character traits (e.g., patience, honesty, compassion), addressing questions like: how and when are moral character traits expressed in the context of everyday life? How do these traits influence peoples’ lives and relationships? And how can we best measure individual differences in morality? Ben received his Master’s from Wake Forest University in 2023, and his Bachelor’s from the University of Mississippi in 2021. In his free time, he enjoys listening to and performing music, reading, and playing tabletop games. [CV](https://www.dropbox.com/scl/fi/z1c3ikwdxxz932xg7pvwt/B-Hardin-CV-7.15.26.docx?rlkey=gjrriclvhzt6qesckyf33tbph&dl=0&raw=1)
 
-Email: ben.h@wustl.edu
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:ben.h@wustl.edu'
 
 </div>
 
