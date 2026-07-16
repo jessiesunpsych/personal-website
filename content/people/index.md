@@ -14,7 +14,7 @@ type: page
 
 **PhD Student**
 
-Ben is a 4th year PhD student in Psychological and Brain Sciences at Washington University in St. Louis. His research seeks to understand the nature of morally valued character traits (e.g., patience, honesty, compassion), addressing questions like: How and when are moral character traits expressed in the context of everyday life? How do these traits influence peoples’ lives and relationships? And how can we best measure individual differences in morality? Ben received his Master’s from Wake Forest University in 2023, and his Bachelor’s from the University of Mississippi in 2021. In his free time, he enjoys listening to and performing music, reading, and playing tabletop games. For more information, please see Ben's [CV](https://www.dropbox.com/scl/fi/z1c3ikwdxxz932xg7pvwt/B-Hardin-CV-7.15.26.docx?rlkey=gjrriclvhzt6qesckyf33tbph&dl=0&raw=1).
+Ben is a 4th year PhD student in Psychological and Brain Sciences at Washington University in St. Louis. His research seeks to understand the nature of morally valued character traits (e.g., patience, honesty, compassion), addressing questions like: How and when are moral character traits expressed in the context of everyday life? How do these traits influence peoples’ lives and relationships? And how can we best measure individual differences in morality? Ben received his Master’s from Wake Forest University in 2023, and his Bachelor’s from the University of Mississippi in 2021. In his free time, he enjoys listening to and performing music, reading, and playing tabletop games. For more information, please see Ben's [CV](https://www.dropbox.com/scl/fi/z1c3ikwdxxz932xg7pvwt/B-Hardin-CV-7.15.26.docx?rlkey=gjrriclvhzt6qesckyf33tbph&dl=0).
 
 Email: ben.h@wustl.edu
 
