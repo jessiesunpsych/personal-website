@@ -41,8 +41,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jessie.sun@auckland.ac.nz'
-- icon: bluesky
-  icon_pack: fab
+- icon: cloud
+  icon_pack: fas
   link: https://bsky.app/profile/jessiesun.bsky.social
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
